@@ -13,3 +13,8 @@
 - 활용 툴: Metabase, MYsql(데이터 적재), Tableau
 
 - 모델링: XGBclassifier
+
+- 예측 사이트 시연 영상
+
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/102234250/198223392-81e36bec-446b-40d4-8798-d80884e5ca27.png">
+
