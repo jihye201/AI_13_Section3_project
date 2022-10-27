@@ -12,4 +12,4 @@
  
 - 활용 툴: Metabase, MYsql(데이터 적재), Tableau
 
-- 모델링: 머신러닝 활용 
+- 모델링: XGBclassifier
