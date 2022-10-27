@@ -25,6 +25,8 @@
 https://user-images.githubusercontent.com/102234250/198223754-0d7bf689-2566-4ed6-b8b9-9c0b96a02a82.mov
 
 
-## 발표 영상
+## 발표 영상(링크)
 
 https://youtu.be/3xe_9Wa-nqg
+
++ 참고 노션 페이지 : https://www.notion.so/e1a841c3f7494fcbb9db3e92c096a356
