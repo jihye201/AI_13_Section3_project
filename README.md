@@ -16,5 +16,9 @@
 
 - 예측 사이트 시연 영상
 
-<img width="570" alt="image" src="https://user-images.githubusercontent.com/102234250/198223392-81e36bec-446b-40d4-8798-d80884e5ca27.png">
+https://user-images.githubusercontent.com/102234250/198223754-0d7bf689-2566-4ed6-b8b9-9c0b96a02a82.mov
+
+
+- 발표 영상
+
 
