@@ -12,7 +12,8 @@
  2. 안락사된 동물 특징 확인 (털색,종,나이)
  3. 입양된 동물 특징 분석(털색,종,나이
 - 데이터 모델링
- 1. XGBclassifier 사용
+ 1. 나이, ID 전처리 진행
+ 2. XGBclassifier 사용
  
 - 활용 툴: Metabase, MYsql(데이터 적재), Tableau, colab
 
